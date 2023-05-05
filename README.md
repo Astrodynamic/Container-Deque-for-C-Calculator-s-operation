@@ -39,7 +39,7 @@ This library has no external dependencies.
 
 To contribute to this library, please follow the steps below:
 
-1. Clone this repository: `git clone https://github.com/example/arithmetic-library`
+1. Clone this repository: `git clone https://github.com/Astrodynamic/Container-Deque-for-C-Calculator-s-operation`
 2. Build the library: `cmake -S . -B ./build`
 3. Make changes to the library source files in `./src`
 4. Submit a pull request
@@ -56,7 +56,7 @@ If you want to use this library in another project, you can add it as a submodul
 
 ```cmake
 # Add the deque library as a submodule
-git submodule add https://github.com/example/arithmetic-library
+git submodule add https://github.com/Astrodynamic/Container-Deque-for-C-Calculator-s-operation
 
 # Add the library to your project
 add_subdirectory(arithmetic-library)
