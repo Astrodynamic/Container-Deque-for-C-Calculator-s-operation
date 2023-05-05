@@ -62,5 +62,5 @@ git submodule add https://github.com/Astrodynamic/Container-Deque-for-C-Calculat
 add_subdirectory(arithmetic-library)
 
 # Link against the library
-target_link_libraries(my_calculator PRIVATE deque)
+target_link_libraries(my_calculator PRIVATE Deque)
 ```
